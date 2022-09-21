@@ -13,5 +13,5 @@
 }
 
 .socialIcon {
-    @apply text-xl text-stone-500 hover:text-stone-700 mr-4;
+    @apply text-xl text-stone-500 hover:text-stone-900;
 }
