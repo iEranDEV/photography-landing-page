@@ -16,9 +16,6 @@
 	<portfolio-section></portfolio-section>
 	<!-- Portfolio section end -->
 
-	<!-- Testimonials section start -->
-	<comment-section></comment-section>
-	<!-- Testimonials section end -->
 
 	<!-- Contact section start -->
 	<contact-section></contact-section>
@@ -31,7 +28,6 @@ import MainSection from '@/sections/MainSection.vue';
 import AboutSection from '@/sections/AboutSection.vue';
 import ServiceSection from '@/sections/ServiceSection.vue';
 import PortfolioSection from '@/sections/PortfolioSection.vue';
-import CommentSection from '@/sections/CommentSection.vue';
 import ContactSection from '@/sections/ContactSection.vue';
 
 export default {
@@ -40,7 +36,6 @@ export default {
 		AboutSection,
 		ServiceSection,
 		PortfolioSection,
-		CommentSection,
 		ContactSection,
 	}
 }
