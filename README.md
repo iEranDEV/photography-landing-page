@@ -1,24 +1,6 @@
-# photography-landing-page
+# Simple photography landing page
+### Original design: https://dribbble.com/shots/16247167-photographer-landing-page
+### by AR Shakir
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Mobile view](./img/mobile.png)
+![Desktop view](./img/desktop.png)
